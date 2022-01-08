@@ -1,4 +1,4 @@
-Hello madiee this is Rijul Kumar, I attempted this assignment by using speech recognition library of python.
+Hello this is Rijul Kumar, I attempted this assignment by using speech recognition library of python.
 As a result, i don't have to build a machine learning model from scratch.
 This library provides us with handy and popular public speech recognition APIs (like Google Cloud Speech API, IBM Speech To Text, etc.).
 I am going to use Google Speech Recognition here.
